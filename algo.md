@@ -1,0 +1,21 @@
+importation de la library random
+
+définition dé1(dé1)
+  dé=aléatoire(1,6)
+défintion dé2(dé2)
+  dé2=aléatoire(1,6)
+défintion dé3(dé3)
+  dé3=aléatoire(1,6)
+dé1=dé1()
+dé2=dé2()
+dé3=dé3()
+afficher dé1,dé2,dé3
+total=dé1+dé2+dé3
+si total=7 
+  si dé1=4 ou dé2=4 ou dé3=4:
+    afficher "vous avez gagné!"
+  sinon:
+    afficher "réesseyer"
+sinon:
+ afficher "réesseyer"
+  
