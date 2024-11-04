@@ -14,10 +14,3 @@ if total==7
     print("réesseyer ")
   else:
      print("réesseyer")
-for i in range (3):
-  if total==7:
-    break
-  else:
-    réessayer
-    
-
