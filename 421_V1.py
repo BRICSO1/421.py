@@ -1,5 +1,4 @@
 from random import *
-  dé2=randint(1,6)
 def dé1():
   dé1=randint(1,6)
 def dé2()
