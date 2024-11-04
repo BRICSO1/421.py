@@ -2,7 +2,7 @@
 from random import *
 def dé1():
   dé1=randint(1,6)
-def dé2()
+def dé2():
   dé2=randint(1,6)
 def dé3():
   dé3=randint(1,6)
