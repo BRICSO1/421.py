@@ -5,4 +5,6 @@ fin de la v1
 2 novembre 2024
 création du carnet de bord
 04 novembre 2024
-ajout 2 joueurs + correction des 3 lancers
+ajout 2 joueurs + correction des 3 lancers ajout des 3 as dans un pull request
+05 novembre 2024 
+merge du pr #6 et ajout des : à la fin des `if` et des boucles for
